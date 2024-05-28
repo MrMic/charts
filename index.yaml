@@ -9,6 +9,6 @@ entries:
       name: httpd
       type: application
       urls:
-        - https://github.com/MrMic/charts/httpd-0.1.0.tgz
+        - https://mrmic.github.io/charts/httpd-0.1.0.tgz
       version: 0.1.0
 generated: "2024-05-28T21:20:43.570873858+02:00"
